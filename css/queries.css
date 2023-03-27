@@ -12,7 +12,7 @@
   }
   .card {
     height: 100%;
-    max-width: 25.5rem;
+    max-width: 30rem;
   }
 }
 
@@ -28,7 +28,7 @@
     grid-template-columns: 1fr;
   }
   .card {
-    max-width: 30rem;
+    max-width: 35rem;
   }
   .header-container {
     padding: 3rem;
